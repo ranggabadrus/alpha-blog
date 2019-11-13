@@ -35,6 +35,7 @@ class ArticlesController < ApplicationController
   end
   
   def show
+    # @article = Article.all
   end
   
   def destroy
